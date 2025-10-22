@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+transformers
+torch
+# Add all other libraries you use, one per line
