@@ -1,5 +1,7 @@
 streamlit
 PyPDF2
+sumy
+nltk
 transformers
 torch
-# Add all other libraries you use, one per line
+python-docx
